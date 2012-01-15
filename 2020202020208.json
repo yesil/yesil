@@ -2,7 +2,5 @@
 barcode:"2020202020208",
 name:"dummy 02",
 ingredients:"C'est pareil",
-vegetarian:0,
-halal:1,
-kosher:0
+tags:[{name:"vegetarian",style:"blue"},{name:"halal",style:"blue"},{name:"kosher",style:"blue"}]
 }

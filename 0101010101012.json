@@ -2,7 +2,5 @@
 barcode:"0101010101012",
 name:"dummy 01",
 ingredients:"Rien à décrire puisque ce n'est pas un vrai produit",
-vegetarian:1,
-halal:1,
-kosher:0
+tags:[{name:"vegetarian",style:"blue"},{name:"halal",style:"blue"}]
 }
