@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilyas Stéphane Türkben</title>
+    <link>https://ilyasturkben.com/</link>
+    <description>Recent content on Ilyas Stéphane Türkben</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ilyasturkben.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://ilyasturkben.com/posts/theme-demo/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilyasturkben.com/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://ilyasturkben.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ilyasturkben.com/about/</guid>
+      <description>Married, dad of 3 little girls, Software Engineer.
+I live in Switzerland and work at Adobe Basel.
+I speak Turkish, English, French and some basic German.
+I&amp;rsquo;m a full stack developer who likes to focus on every aspects of softwares. I have a keen interest in modern frontend development stacks. I like React, TypeScript, NodeJS, and modern TDD tools such as Cypress.
+Have questions or suggestions? Feel free to ask me on Twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

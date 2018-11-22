@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ilyasturkben.com/tr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ilyasturkben.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ilyasturkben.com/tr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ilyasturkben.com/tr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ilyasturkben.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ilyasturkben.com/tr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ilyasturkben.com/tr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ilyasturkben.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ilyasturkben.com/tr/tags/"
+                />
+  </url>
+  
+</urlset>

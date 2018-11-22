@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ilyasturkben.com/posts/theme-demo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ilyasturkben.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ilyasturkben.com/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ilyasturkben.com/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ilyasturkben.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ilyasturkben.com/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ilyasturkben.com/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ilyasturkben.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ilyasturkben.com/posts/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ilyasturkben.com/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://ilyasturkben.com/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ilyasturkben.com/tags/"
+                />
+  </url>
+  
+</urlset>
